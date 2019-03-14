@@ -1,0 +1,20 @@
+C:\Users\ГерценЕ.LOCAL\Desktop\LibFinal-master\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\ГерценЕ.LOCAL\Desktop\LibFinal-master\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\ГерценЕ.LOCAL\Desktop\LibFinal-master\Library\bin\Debug\Library.exe.config
+C:\Users\ГерценЕ.LOCAL\Desktop\LibFinal-master\Library\bin\Debug\Library.exe
+C:\Users\ГерценЕ.LOCAL\Desktop\LibFinal-master\Library\bin\Debug\Library.pdb
+C:\Users\ГерценЕ.LOCAL\Desktop\LibFinal-master\Library\bin\Debug\LiteDB.dll
+C:\Users\ГерценЕ.LOCAL\Desktop\LibFinal-master\Library\bin\Debug\LiteDB.xml
+C:\Users\ГерценЕ.LOCAL\Desktop\LibFinal-master\Library\obj\Debug\Library.csproj.CopyComplete
+C:\Users\ГерценЕ.LOCAL\Desktop\LibFinal-master\Library\obj\Debug\Library.exe
+C:\Users\ГерценЕ.LOCAL\Desktop\LibFinal-master\Library\obj\Debug\Library.pdb
+\\sd\City\Новая папка (2)\LibFinal-master\Library\bin\Debug\Library.exe.config
+\\sd\City\Новая папка (2)\LibFinal-master\Library\bin\Debug\Library.exe
+\\sd\City\Новая папка (2)\LibFinal-master\Library\bin\Debug\Library.pdb
+\\sd\City\Новая папка (2)\LibFinal-master\Library\bin\Debug\LiteDB.dll
+\\sd\City\Новая папка (2)\LibFinal-master\Library\bin\Debug\LiteDB.xml
+\\sd\City\Новая папка (2)\LibFinal-master\Library\obj\Debug\Library.csprojAssemblyReference.cache
+\\sd\City\Новая папка (2)\LibFinal-master\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+\\sd\City\Новая папка (2)\LibFinal-master\Library\obj\Debug\Library.csproj.CopyComplete
+\\sd\City\Новая папка (2)\LibFinal-master\Library\obj\Debug\Library.exe
+\\sd\City\Новая папка (2)\LibFinal-master\Library\obj\Debug\Library.pdb
